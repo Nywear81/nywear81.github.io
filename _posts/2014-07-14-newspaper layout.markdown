@@ -7,7 +7,6 @@ alt: image-alt
 project-date: 
 client: Flemington Kensington News
 category: Newspaper layout
-description: Editing pages of the Flemington Kensington News. Designing the middle page spread that contained coloured
-photos. Using dropbox and communicating with head designer and editor of the paper.
+description: Editing pages of the Flemington Kensington News. Designing the middle page spread that contained coloured photos. Using dropbox and communicating with head designer and editor of the paper.
 
 ---

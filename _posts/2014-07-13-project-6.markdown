@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: festival.png
 alt: image-alt
 project-date: May 4 2014
-client: Mytrax Inc
+client: MIA
 category: App Design
 description: 
 

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: vinyl.png
+alt: image-alt
+project-date: Sept 7 2014
+client: Mytrax Inc
+category: App Design
+description: I created the logo, splash page, background for the play screen and colour scheme. App description - Do you miss the warm sound of vinyl music? The warmth, the organic texture? You can now get that feeling back directly on the music collection on your phone! With Vinyl!, you can get the warmth and the mechanical sounds of a real vinyl player. It is even possible to take it back decades earlier to simulate the quality of old jazz discs. Rediscover your music collection!
+
+---
